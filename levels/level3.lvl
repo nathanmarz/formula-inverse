@@ -1,0 +1,24 @@
+light
+values 1 1 1 1
+position 0 50 0 1
+values 1 1 1 1
+position 0 -50 0 1
+end
+track 4 5 loop 5
+pieces 6 6 6 0 0 34 35 2 5 2 5 0 0 3 0 0 
+widthDivide 20
+lengthDivide 20
+texture 6
+end
+cube 50
+texture 6 12
+texture 6 12
+texture 6 12
+texture 6 12
+texture 6 12
+texture 1 5
+end
+fontManager
+Vera.ttf
+20
+end

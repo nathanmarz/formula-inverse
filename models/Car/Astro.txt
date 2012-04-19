@@ -1,0 +1,59 @@
+================================================================
+ Astroboy Quake2 Player
+ by Jonn Gorden                           email: jonny@pobox.com
+................................................................
+
+================================================================
+Title                   : Astroboy 
+Author                  : Jonn Gorden
+Email Address           : jonny@pobox.com
+
+Description             : Astroboy Quake2 player model
+
+Additional Credits to   : id Software for being id Software
+                          Osamu Tezuka, creator of Astroboy
+                          Ridah for creating Eraser bot so I
+                           could test Astro
+                          
+Build Time              : 3 days
+================================================================
+
+DESCRIPTION
+
+   A plugin player model for Quake2.
+
+
+INSTALLATION
+
+   Just unzip the files contained in the archive, to your
+   Quake2 folder, RESTORING PATHNAMES. This means
+   that if you're using Winzip, you must enable the
+   "Use Folder Names" option when extracting. For
+   pkunzip users, make sure you use the -d option.
+
+USING ASTROBOY IN QUAKE2
+
+   To use Astroboy go to the mutliplayer setup and choose the Astro
+   model instead of the male or female players.
+   
+   To use Astroboy as an Eraser Bot edit the BOT.CFG and include 
+   the line:
+   "Astro"        "astro/astro"        3   3   3   8   1   0
+   under the title [bots]. you can edit the various strengths by
+   changing the numbers following the name.
+   
+SKINS
+
+   Please feel free to create new skins for Astro. You can send them
+   to me by email: Jonny@pobox.com
+
+COMMENTS
+
+   Please ask if you want to use the model for anything other than 
+   personal use as it is explained here, particularly if incuding it 
+   in a patch or add-on.
+
+
+Above all have fun...
+
+jonny

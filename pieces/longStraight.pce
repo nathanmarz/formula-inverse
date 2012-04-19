@@ -1,0 +1,16 @@
+hermite 10
+texWidth 4
+texHeight 4
+open
+15 0 0
+0 0 0
+end
+open
+15 0 25
+0 0 5
+end
+open
+15 0 50
+0 0 50
+end
+
