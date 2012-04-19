@@ -3,7 +3,8 @@ Formula Inverse a high-speed racing game where the track can curve any which way
 ## Controls
 
 Control player 1 with w/a/s/d keys for movement and q for boost.
-Control player2 i/j/k/l keys for movement and u for boost
+
+Control player 2 with i/j/k/l keys for movement and u for boost
 
 ## Installation
 
